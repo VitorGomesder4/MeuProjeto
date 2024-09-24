@@ -1,6 +1,6 @@
 {
-  "name": "Skibidi2",
-  "version": "1.2.0",
+  "name": "Skibidi",
+  "version": "1.0.1",
   "description": "MeuProjeto",
   "main": "index.js",
   "scripts": {
